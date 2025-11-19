@@ -17,3 +17,7 @@ Brewfile.lock.json
 .DS_Store
 
 examples/*.mp3
+
+# Rust build artifacts
+denpk2/target
+pytools/target
